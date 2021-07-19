@@ -56,10 +56,10 @@ ua = random.choice(['Mozilla/5.0 (Linux; Android 9; RMX1941) AppleWebKit/537.36 
 ##### LOGO #####
 logo = """
   __  __ ____  _____
- |  \/  | __ )|  ___| *au : rozhak
- | |\/| |  _ \| |_    *fb : fb.com/rozhak.xyz
- | |  | | |_) |  _|   *gh : github.com/r0zhak
- |_|  |_|____/|_|     *yt : youtube.com/rozhakid
+ |  \/  | __ )|  ___| *au : ./Helix
+ | |\/| |  _ \| |_    *fb : fb.com/05thStaR
+ | |  | | |_) |  _|   *gh : github.com/r0zhakID
+ |_|  |_|____/|_|     *yt : 
 """
 ips=None
 try:
