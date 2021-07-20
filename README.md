@@ -3,8 +3,7 @@
 - [x] Video : https://youtu.be/HLzB-V8ykF8
 
 ## INSTALLATION
-
-Cara install
+<h4>How To install</h4>
 ------------------
 
 ∆ pkg update && upgrade
