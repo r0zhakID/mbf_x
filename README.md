@@ -1,3 +1,9 @@
+
+## HOW TO GET TOKEN
+- [x] Video : https://youtu.be/HLzB-V8ykF8
+
+## INSTALLATION
+
 Cara install
 ------------------
 
