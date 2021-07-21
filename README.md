@@ -23,7 +23,7 @@
 ∆ cd mbf_x
 
 ∆ python2 oke.py
-
+<h2>Informasi : Login menggunakan TOKEN</h2>
 
 
 <h4>How To install</h4>
@@ -45,3 +45,4 @@
 ∆ cd mbf_x
 
 ∆ python2 eng.py
+<h2>Information: Login using TOKEN</h2>
