@@ -526,14 +526,21 @@ def generate(text):
 			i=i.lower()
 			if len(i)==3 or len(i)==4 or len(i)==5:
 				results.append(i+"123")
+				results.append(i+"0987")
 				results.append(i+"1234")
+				results.append(i+"12345")
 			else:
 				results.append(i+"123")
+				results.append(i+"0987")
 				results.append(i+"1234")
 				results.append(i+"12345")
 				results.append(i)
 				if "indonesia" in ips:
 					results.append("sayang")
+					results.append("bismillah")
+					results.append("cintakamu")
+					results.append("indonesia")
+					results.append("covid19")
 	return results
 class crack:
 	def __init__(self):
