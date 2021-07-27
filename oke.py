@@ -7,7 +7,7 @@ sys.setdefaultencoding("utf-8")
 from multiprocessing.pool import ThreadPool
 if ("linux" in sys.platform.lower()):
 	##### WARNA #####
-        P = '\033[0;97m' # Putihh
+        P = '\033[0;97m' # Putih
         M = '\033[0;91m' # Merah
         H = '\033[0;92m' # Hijau
         K = '\033[0;93m' # Kuning
