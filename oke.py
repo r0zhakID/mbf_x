@@ -534,6 +534,7 @@ def generate(text):
 				results.append(i+"12345")
 				results.append(i)
 				if "indonesia" in ips:
+					results.append("kontol")
 					results.append("bangsat")
 					results.append("cintaku")
 					results.append("indonesia")
